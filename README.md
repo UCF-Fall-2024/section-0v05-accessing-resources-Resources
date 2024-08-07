@@ -35,3 +35,7 @@ Feel free to go within each folder and ask questions or provide more resources (
 
 **Disclaimer**: I am heavily biased towards Software Engineering and Game Engine development as that is my current industry experience. So, I apologize in advance if that's not what you want or I am eager to answer any questions you have regarding it. 
 
+### PLEASE SIGN HERE
+
+After reading each level and getting used to these additional set of resources, please type your name below:
+
